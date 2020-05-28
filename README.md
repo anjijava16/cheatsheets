@@ -27,5 +27,8 @@ if you find some more can add in comment section
 
 - GCP: https://lnkd.in/eKcU8zk
 
+- AWS Images Sheet : https://www.awsgeek.com/AWS-History/
+
+
 - Azure Machine Learning Algorithm Cheat Sheet : https://lnkd.in/e25jRU6
 
